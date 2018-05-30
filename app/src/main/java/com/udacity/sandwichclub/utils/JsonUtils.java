@@ -15,7 +15,6 @@ public class JsonUtils {
 
     public static Sandwich parseSandwichJson(String json) throws JSONException {
 
-
         JsonUtils utils = new JsonUtils();
 
         //parse JSON
